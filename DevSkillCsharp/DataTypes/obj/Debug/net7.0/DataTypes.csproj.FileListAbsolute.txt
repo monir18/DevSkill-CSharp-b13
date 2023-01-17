@@ -1,0 +1,15 @@
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\bin\Debug\net7.0\DataTypes.exe
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\bin\Debug\net7.0\DataTypes.deps.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\bin\Debug\net7.0\DataTypes.runtimeconfig.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\bin\Debug\net7.0\DataTypes.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\bin\Debug\net7.0\DataTypes.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.csproj.AssemblyReference.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfoInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfo.cs
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.csproj.CoreCompileInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\refint\DataTypes.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\DataTypes.genruntimeconfig.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\DataTypes\obj\Debug\net7.0\ref\DataTypes.dll

@@ -1,0 +1,15 @@
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\bin\Debug\net7.0\Array.exe
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\bin\Debug\net7.0\Array.deps.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\bin\Debug\net7.0\Array.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\bin\Debug\net7.0\Array.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\refint\Array.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Array\obj\Debug\net7.0\ref\Array.dll

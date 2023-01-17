@@ -1,0 +1,15 @@
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
