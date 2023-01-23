@@ -1,0 +1,15 @@
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\bin\Debug\net7.0\Operators.exe
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\bin\Debug\net7.0\Operators.deps.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\bin\Debug\net7.0\Operators.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\bin\Debug\net7.0\Operators.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\refint\Operators.dll
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.pdb
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+F:\DevSkillTrainingVideo\DevSkill-CSharp-b13\DevSkillCsharp\Operators\obj\Debug\net7.0\ref\Operators.dll
